@@ -1,8 +1,18 @@
+
+
 # 🏡 99 Acers – Real Estate Price Prediction Platform
 
 An end-to-end **Machine Learning project** that predicts real estate prices based on key features such as location, area (sqft), and BHK configuration. This project demonstrates the complete data science lifecycle — from data collection to deployment.
 
+
+<p align="center">
+  <a href="https://github.com/prince-kumar-ds/99_Acers">GitHub</a> •
+  <a href="https://prince-99acers.streamlit.app/">Live Demo</a>
+</p>
+
 ---
+
+
 
 ## 🚀 Project Overview
 
@@ -52,25 +62,39 @@ The goal of this project is to build a **robust real estate price prediction sys
 
 ---
 
-## 🤖 Model Building
-
-Implemented multiple regression models:
-
-- Linear Regression
-- Decision Tree
-- Random Forest
-- XGBoost (Best Performing)
-
-### 🔧 Model Optimization
-- Cross Validation
-- Hyperparameter Tuning
 
 ---
 
-## 📈 Model Evaluation
+## 🤖 Models Used
+
+| Model              | Performance |
+|-------------------|------------|
+| Linear Regression | Baseline   |
+| Decision Tree     | Moderate   |
+| Random Forest     | Good       |
+| XGBoost           | ⭐ Best     |
+
+---
+
+## 📈 Evaluation Metrics
 
 - R² Score  
-- Mean Absolute Error (MAE)
+- Mean Absolute Error (MAE)  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: Python  
+- **Libraries**: Pandas, NumPy, Scikit-learn, XGBoost  
+- **Visualization**: Matplotlib, Seaborn  
+- **Deployment**: Streamlit  
+- **Web Scraping**: BeautifulSoup, Requests  
+
+---
+
+## 📂 Project Structure
+
 
 ---
 
