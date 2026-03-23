@@ -93,7 +93,12 @@ The goal of this project is to build a **robust real estate price prediction sys
 
 ---
 
-## 📂 Project Structure
+## 💼 Business Impact
+
+- Provides data-driven **property price estimation** to help users make informed decisions.  
+- Reduces reliance on subjective pricing and improves **price transparency**.  
+- Includes a **recommendation system** to suggest similar properties based on user inputs.  
+- Acts as a practical decision-support tool during early-stage property search.  
 
 
 ---
@@ -129,4 +134,3 @@ The goal of this project is to build a **robust real estate price prediction sys
 
 ---
 
-## 📂 Project Structure
