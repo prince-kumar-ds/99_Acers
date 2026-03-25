@@ -48,8 +48,8 @@ The goal of this project is to build a **robust real estate price prediction sys
 - Used visualizations for insights
 
 ### 🔹 Feature Engineering
-- Created features like price per sqft
-- Grouped locations to reduce dimensionality
+- Filled Missing Values
+- Gave Number based on Facility 
 
 ### 🔹 Feature Selection
 - Removed irrelevant and redundant features
@@ -107,8 +107,7 @@ The goal of this project is to build a **robust real estate price prediction sys
 
 - Suggests similar properties based on:
   - Location
-  - Budget
-  - Configuration
+  - Facility
 
 ---
 
